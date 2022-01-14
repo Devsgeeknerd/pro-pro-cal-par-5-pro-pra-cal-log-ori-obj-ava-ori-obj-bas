@@ -5,7 +5,7 @@
 - *Scrip* — Ela trás um arquivo externo JavaScript.
 - *Style* — Ela é quem define o estilo da página.
 - *Meta* — Ela é todos os dados internos da página.
-- *Base* Ela especifica qual é o endereço original do site.
+- *Base* — Ela especifica qual é o endereço original do site.
 
 ## Informações
 
