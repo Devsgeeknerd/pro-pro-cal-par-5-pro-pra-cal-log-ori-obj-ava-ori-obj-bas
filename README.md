@@ -1,16 +1,45 @@
 <!-- TITLE -->
 # Cabeçalho
 
+```html
+    <title></title>
+```
+
 * ***Title***
 > O título da página.
+
+```html
+    <link />
+```
+
 * ***Link***
 > Inseri um arquivo externo no HTML.
+
+```html
+    <script></script>
+```
+
 * ***Script***
 > Ela trás um arquivo externo JavaScript.
+
+```html
+    <style></style>
+```
+
 * ***Style***
 > Ela é quem define o estilo da página.
+
+```html
+<meta />
+```
+
 * ***Meta***
 > Ela é todos os dados internos da página.
+
+```html
+    <base href="" />
+```
+
 * ***Base***
 > Ela especifica qual é o endereço original do site.
 
