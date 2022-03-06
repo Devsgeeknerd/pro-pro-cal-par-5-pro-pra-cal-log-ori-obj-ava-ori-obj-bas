@@ -6,6 +6,7 @@
 ```
 
 * ***Title***
+
 > O título da página.
 
 ```html
@@ -13,6 +14,7 @@
 ```
 
 * ***Link***
+
 > Inseri um arquivo externo no HTML.
 
 ```html
@@ -20,6 +22,7 @@
 ```
 
 * ***Script***
+
 > Ela trás um arquivo externo JavaScript.
 
 ```html
@@ -27,13 +30,15 @@
 ```
 
 * ***Style***
+
 > Ela é quem define o estilo da página.
 
 ```html
-<meta />
+    <meta />
 ```
 
 * ***Meta***
+
 > Ela é todos os dados internos da página.
 
 ```html
@@ -41,22 +46,23 @@
 ```
 
 * ***Base***
+
 > Ela especifica qual é o endereço original do site.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
-<!-- - [Vista por cima](#vista-por-cima) -->
-<!--  - [Foto da tela](#foto-da-tela) -->
-<!--  - [Links](#links) -->
-<!-- - [Meu processo](#meu-processo) -->
-<!--  - [Contruido com](#construido-com) -->
-<!--  - [O que aprendi](#o-que-aprendi) -->
-<!--  - [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  - [Recusos úteis](#recursos-úteis) -->
-<!-- - [Autor](#autor) -->
-<!-- - [Agradecimentos](#agradecimentos) -->
-- [Informações](#informações)
+<!-- * [Vista por cima](#vista-por-cima) -->
+<!--  * [Foto da tela](#foto-da-tela) -->
+<!--  * [Links](#links) -->
+<!-- * [Meu processo](#meu-processo) -->
+<!--  * [Contruido com](#construido-com) -->
+<!--  * [O que aprendi](#o-que-aprendi) -->
+<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
+<!--  * [Recusos úteis](#recursos-úteis) -->
+<!-- * [Autor](#autor) -->
+<!-- * [Agradecimentos](#agradecimentos) -->
+* [Informações](#informações)
 
 <!-- OVERVIEW -->
 <!-- ## VISTA POR CIMA -->
